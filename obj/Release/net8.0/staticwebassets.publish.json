@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lO5Ms1lLk5yF4EBefGPRF0MnwEgeupwiwxZnfGo6NaY=",
+  "Source": "api-persons",
+  "BasePath": "_content/api-persons",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
